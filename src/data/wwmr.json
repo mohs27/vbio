@@ -1,0 +1,57 @@
+{
+	"theme": "default",
+	"username": "wwmr",
+	"name": "Arif Hida",
+	"bio": "Web Artisan",
+	"description": "Syofyan Zuhad - Software Engineer",
+	"avatar_url": "https://github.com/wwmr.png",
+	"socials": [
+		{
+			"name": "twitter",
+			"href": "https://twitter.com/syofyan_zuhad",
+			"icon": "tw"
+		},
+		{
+			"name": "instagram",
+			"href": "https://www.instagram.com/syofyan_zuhad",
+			"icon": "ig"
+		},
+		{
+			"name": "linkedin",
+			"href": "https://www.linkedin.com/in/syofyan-zuhad",
+			"icon": "li"
+		},
+		{
+			"name": "telegram",
+			"href": "https://t.me/syofyan_zuhad",
+			"icon": "tg"
+		}
+	],
+	"links": [
+		{
+			"id": 1,
+			"href": "https://syofyan-profile.vercel.app/",
+			"title": "Web Profile"
+		},
+		{
+			"id": 2,
+			"href": "https://libur-hari-ini.vercel.app/",
+			"title": "Cek Libur Hari Ini"
+		},
+		{
+			"id": 3,
+			"href": "https://showwcase.com/syofyanzuhad",
+			"title": "Connect me on Showwcase"
+		},
+		{
+			"id": 4,
+			"href": "https://syofyanzuhad.medium.com/",
+			"title": "Read my blog"
+		},
+		{
+			"id": 5,
+			"href": "https://www.buymeacoffee.com/syofyanzuhad",
+			"title": "Buy me a coffee"
+		}
+	]
+}

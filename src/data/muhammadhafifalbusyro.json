@@ -1,0 +1,28 @@
+{
+	"theme": "default",
+	"username": "muhammadhafifalbusyro",
+	"name": "Muhammad Hafif Al Busyro",
+	"bio": "Mobile Developer",
+	"description": "Muhammad Hafif Al Busyro - Mobile Developer",
+	"avatar_url": "https://github.com/muhammadhafifalbusyro.png",
+	"socials": [
+		{
+			"name": "instagram",
+			"href": "https://www.instagram.com/muhammadhafifalbusyro",
+			"icon": "ig"
+		},
+		{
+			"name": "linkedin",
+			"href": "https://www.linkedin.com/in/muhammad-hafif-al-busyro-8bb248187",
+			"icon": "li"
+		},
+		{
+			"name": "telegram",
+			"href": "https://t.me/muhammadhafifalbusyro",
+			"icon": "tg"
+		}
+	],
+	"links": [
+
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"theme": "default",
+	"username": "default",
+	"name": "Freebio Dev",
+	"bio": "FREE Bio for Developer",
+	"description": "FREE Bio for Developer",
+	"avatar_url": "/bio-512x512.png",
+	"socials": [
+		{
+			"name": "twitter",
+			"href": "https://twitter.com/syofyan_zuhad",
+			"icon": "tw"
+		},
+		{
+			"name": "linkedin",
+			"href": "https://www.linkedin.com/in/syofyan-zuhad",
+			"icon": "li"
+		},
+		{
+			"name": "telegram",
+			"href": "https://t.me/syofyan_zuhad",
+			"icon": "tg"
+		},
+		{
+			"name": "mail",
+			"href": "mailto:syofyan@freebio.dev",
+			"icon": "mail"
+		}
+	],
+	"links": [
+		{
+			"id": 1,
+			"href": "/create",
+			"title": "Make your own bio"
+		},
+		{
+			"id": 2,
+			"href": "https://app.splitbee.io/public/freebio.dev",
+			"title": "Visitor Stats"
+		},
+		{
+			"id": 3,
+			"href": "/syofyanzuhad",
+			"title": "Sample Bio Link"
+		},
+		{
+			"id": 4,
+			"href": "https://www.buymeacoffee.com/syofyanzuhad",
+			"title": "Buy me a coffee"
+		},
+		{
+			"id": 5,
+			"href": "https://trakteer.id/syofyanzuhad/tip",
+			"title": "Trakteer me"
+		},
+		{
+			"id": 6,
+			"href": "/donate",
+			"title": "Donate"
+		}
+	]
+}
